@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+<!--There are three steps to run the spring application
+1. Configure your spring Beans -> xml file
+2. Create the spring container => using ClassPathXmlApplicationContext
+3. Retrive bean from the spring container
+   -->
+   
+   <!--Define your beans here  -->
+<bean id="myCoach" class="com.shetu.springdemo.CricketCoach">
+
+</bean>
+
+</beans>
