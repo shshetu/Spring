@@ -7,4 +7,6 @@ public class CricketCoach implements Coach{
 	return "Spend 1 hour batting in the practice net";
 	}
 
+
+
 }
