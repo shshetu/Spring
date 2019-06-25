@@ -13,13 +13,13 @@ import java.util.List;
 @Controller
 public class HomeController {
     @GetMapping()
-    public String home(Model model){
-        model.addAttribute("student",new Student());
+    public String home(Model model) {
+        model.addAttribute("student", new Student());
         return "home";
     }
 
-    @PostMapping(Value="/")
-    public String saveStudent(Model model,@Valid Student student){
+    @PostMapping(Value = "/")
+    public String saveStudent(Model model, @Valid Student student) {
 
     }
 }

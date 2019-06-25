@@ -13,7 +13,7 @@ public class Test {
         //BeanFactory factory=new XmlBeanFactory(resource);
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 
-        Student student=(Student)context.getBean("studentbean");
+        Student student = (Student) context.getBean("studentbean");
         student.displayInfo();
     }
 }

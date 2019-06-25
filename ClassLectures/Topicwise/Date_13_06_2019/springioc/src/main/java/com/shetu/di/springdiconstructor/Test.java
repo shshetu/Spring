@@ -8,13 +8,13 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
 /*
-* Whenever we are on the main method, we have to bear my mind:
-* 1. Make ApplicationContext object like this:
-* ApplicationContext context = new AnnotationConfigApplicationContext("cofig class Name.class");
-* since it is Annotation based
-*
-* 2. From the ApplicationContext object we take getBean(Class name.class) method
-* */
+ * Whenever we are on the main method, we have to bear my mind:
+ * 1. Make ApplicationContext object like this:
+ * ApplicationContext context = new AnnotationConfigApplicationContext("cofig class Name.class");
+ * since it is Annotation based
+ *
+ * 2. From the ApplicationContext object we take getBean(Class name.class) method
+ * */
 public class Test {
     public static void main(String[] args) {
         Resource r = new ClassPathResource("diconstructorapplicationcontext.xml");

@@ -37,16 +37,16 @@ public class SimpleBean {
     }
 
     //init() method
-    public void init(){
+    public void init() {
         System.out.println("Initializing bean");
-        if(name == null){
+        if (name == null) {
             System.out.println("Using default name");
             name = DEFAULT_NAME;
         }
-        if(age == Integer.MIN_VALUE){
+        if (age == Integer.MIN_VALUE) {
             throw new IllegalArgumentException("You must set the age property of any beans of type");
         }
-        if(otherBean.getDepName() == null){
+        if (otherBean.getDepName() == null) {
             System.out.println("use Default Value");
             otherBean.setDepName("Admin");
         }

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1245af4b-46c7-4987-9155-5aab572a762d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/basicBootWeb/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/basicBootWeb/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/basicBootWeb/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/java/com/shetu/thymleafproject/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/css/maps/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/fonts/Roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/auth/lockscreen-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/auth/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/auth/register-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/dashboard/shape-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/dashboard/shape-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/dashboard/shape-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/dashboard/shape-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/faces/face9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/logo-mini.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/documentation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/file-upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/hoverable-collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/off-canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/todolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/js/tooltips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/base/vendor.bundle.base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/base/vendor.bundle.base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/chart.js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/ti-icons/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/ti-icons/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/ti-icons/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/ti-icons/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/static/vendors/ti-icons/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/templates/fragments/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/templates/fragments/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/templates/fragments/leftnav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/thymleafApp/src/main/resources/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/java/com/shetu/web/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/java/com/shetu/web/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/java/com/shetu/web/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/resources/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassWork/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/com/shetu/annotationbased/StudentConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/com/shetu/annotationbased/StudentConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/example/springioc/SpringiocApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/example/springioc/SpringiocApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/example/springioc/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/example/springioc/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/example/springioc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/example/springioc/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiAnno/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiAnno/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiAnno/EmployeeConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiAnno/EmployeeConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiAnno/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiAnno/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiconstructor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiconstructor/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiconstructor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdiconstructor/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdisetter/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/di/springdisetter/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/studentAddress/myStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/java/com/shetu/studentAddress/myStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/resources/diconstructorapplicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/resources/diconstructorapplicationcontext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/resources/myApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/main/resources/myApplicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/test/java/com/example/springioc/SpringiocApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/Date_13_06_2019/springioc/src/test/java/com/example/springioc/SpringiocApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/java/com/shetu/student.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/basicBootWeb/src/test/java/com/example/springDevtools/SpringDevtoolsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/main/java/com/shetu/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/main/java/com/shetu/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/main/java/com/shetu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/main/java/com/shetu/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/test/java/com/example/springDevtools/SpringDevtoolsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/insertNameInWebpage/src/test/java/com/example/springDevtools/SpringDevtoolsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/main/java/com/example/springDevtools/SpringDevtoolsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/main/java/com/example/springDevtools/SpringDevtoolsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/main/java/com/shetu/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/main/java/com/shetu/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/test/java/com/example/springDevtools/SpringDevtoolsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springDevtools/src/test/java/com/example/springDevtools/SpringDevtoolsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/src/main/java/com/shetu/springLifeCycle/SimpleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/src/main/java/com/shetu/springLifeCycle/SimpleBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/src/main/java/com/shetu/springLifeCycle/SpringLifeCycleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/src/main/java/com/shetu/springLifeCycle/SpringLifeCycleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/src/test/java/com/shetu/springLifeCycle/SpringLifeCycleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ClassLectures/Topicwise/springLifeCycle/src/test/java/com/shetu/springLifeCycle/SpringLifeCycleApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="673" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="testProgram" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="testProgram" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1245af4b-46c7-4987-9155-5aab572a762d" name="Default Changelist" comment="" />
+      <created>1561463629795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561463629795</updated>
+      <workItem from="1561463635701" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

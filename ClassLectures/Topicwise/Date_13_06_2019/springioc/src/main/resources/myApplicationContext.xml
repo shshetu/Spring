@@ -2,8 +2,8 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-<bean id="mystudentbean" class="com.shetu.studentAddress">
-    <property name="myName" value="Md. Shahariar Hossen"></property>
-    <property name="age" value="26"></property>
-</bean>
+    <bean id="mystudentbean" class="com.shetu.studentAddress">
+        <property name="myName" value="Md. Shahariar Hossen"></property>
+        <property name="age" value="26"></property>
+    </bean>
 </beans>

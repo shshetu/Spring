@@ -12,17 +12,19 @@ import java.util.UUID;
 public class StudentController {
     @Autowired
     private StudentRepository repository;
+
     @GetMapping(name = "/save")
 
-    public void saveStudent(){
+    public void saveStudent() {
         Student student = new Student(UUID.randomUUID().toString());
         this.repository.save(student);
         System.out.println("Save successfully!");
     }
+
     @GetMapping(name = "/students")
-    public List<Student> getStudentList(){
+    public List<Student> getStudentList() {
         List<Student> list = new ArrayList<>();
         list = this.repository.findAll();
-        return  list;
+        return list;
     }
 }

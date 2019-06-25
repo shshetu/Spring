@@ -12,10 +12,10 @@ public class Employee {
         this.address = address;
     }
 
-    void show(){
+    void show() {
         //here we are printing 2 things of the given class
         //here we are calling the toString() method from the Address class
-        System.out.println(id+" "+name);
+        System.out.println(id + " " + name);
         System.out.println(address.toString());
     }
 }

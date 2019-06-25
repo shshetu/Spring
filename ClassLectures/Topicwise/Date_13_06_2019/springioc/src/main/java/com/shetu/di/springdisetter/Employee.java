@@ -29,7 +29,8 @@ public class Employee {
     public void setCity(String city) {
         this.city = city;
     }
-    void display(){
-        System.out.println(id+" "+name+" "+city);
-            }
+
+    void display() {
+        System.out.println(id + " " + name + " " + city);
+    }
 }

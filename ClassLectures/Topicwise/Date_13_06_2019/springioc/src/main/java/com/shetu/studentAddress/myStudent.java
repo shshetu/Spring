@@ -19,8 +19,9 @@ public class myStudent {
     public void setAge(int age) {
         this.age = age;
     }
-    public void displayInfo(){
-        System.out.println("Name: "+myName+" age:"+age);
+
+    public void displayInfo() {
+        System.out.println("Name: " + myName + " age:" + age);
 
     }
 
