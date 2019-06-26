@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<html lang="en" xmlns:th=""http://www.thymeleaf.org">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-<nav th:fragment="~" class="navbar navbar-default">
+<!-- Navbar -->
+<nav th:fragment="topnav" class="navbar navbar-default">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -17,12 +18,12 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">WHO</a></li>
-                <li><a href="#">WHAT</a></li>
-                <li><a href="#">WHERE</a></li>
+                <li><a th:href="@{/}">Home</a></li>
+                <li><a th:href="@{/about}">About</a></li>
+                <li><a th:href="@{/team}">Team</a></li>
             </ul>
         </div>
     </div>
-</thinav>
+</nav>
 </body>
 </html>
