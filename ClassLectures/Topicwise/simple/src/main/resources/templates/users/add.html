@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout ="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout.html}" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div layout:fragment="cus-content">
+    <h1>User List</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h1>User List<</h1>/div>
+            <div class="col-md-6">
+                <h1><a href="@{/user/add}">Add new user</a></h1>
+            </div>
+        </div>
+    </div>
+    <table class="table">
+        <tr class="">
+           <th>Id</th>
+           <th>Name</th>
+           <th>Username</th>
+           <th>Password</th>
+           <th>Gender</th>
+           <th>Country</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Shuvo</td>
+            <td>admin</td>
+            <td>1234</td>
+            <td>Male</td>
+            <td>Bangladesh</td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
